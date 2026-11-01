@@ -61,3 +61,5 @@ Ini adalah Edge Case paling krusial!
   - Number Format: Excel harus mengenali angka desimal ribuan dengan format akuntansi: `_-* #,##0_-;\-* #,##0_-;_-* "-"_-;_-@_-`.
 
 > **END OF PROMPT**
+
+Link Demo : https://share.gemini.google/UQXQASwaF2Mx
